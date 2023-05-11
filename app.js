@@ -24,3 +24,18 @@ let pastTime = "reading, studying, gardening";
 
 myStory = 'My name is ${fullName}. I live in ${city} and spend most of my time ${pastTime}, and coding!'
 console.log(myStory);
+
+// Exercise 4
+let price = 19.99;
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = "M";
+
+//Exercise 5
+let title = "Name of the Wind";
+let author = "Patrick Rothfuss";
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
