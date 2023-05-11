@@ -17,6 +17,7 @@ let templateFullName = '${firstName} ${lastName}';
 
 console.log("fullName: ", fullName);
 console.log("templateFullName: ", templateFullName);
+
 // Exercise 3
 let myStory;
 let city = "Dora";
